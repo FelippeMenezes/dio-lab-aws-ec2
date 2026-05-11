@@ -1,6 +1,9 @@
-# Gerenciamento de Instâncias EC2 e Armazenamento na AWS
+# Desafio de Gerenciamento de Instâncias EC2 na AWS
 
 Este repositório foi criado para documentar os estudos e a prática realizada durante o laboratório de AWS Cloud Foundations. O foco do projeto é a configuração de máquinas virtuais, gestão de armazenamento e aplicação de boas práticas de economia na nuvem.
+
+<img width="549" height="649" alt="image" src="https://github.com/user-attachments/assets/afdf3224-7929-4771-8624-6bc2420b735f" />
+
 
 ## Conteúdo Técnico
 
