@@ -30,7 +30,6 @@ Aprendizado focado em evitar gastos desnecessários através de:
 * Console de Gerenciamento AWS
 * AWS CLI
 * Git Bash
-* Markdown para documentação
 
 ---
 Documentação desenvolvida como parte do desafio de projeto na plataforma DIO.
